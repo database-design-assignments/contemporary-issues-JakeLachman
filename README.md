@@ -1,3 +1,12 @@
-# Contemporary Issues In Data
+# Pros and Cons of Apple's New Data Privacy Features
+In this document, I discuss two articles about Apple's new features that will give users more control of their data by requiring them to opt in if they would like to allow businesses to track their data and use it for personalized ads. The first summarizes the pros of this feature, while the second details potential cons of it that Facebook has highlighted.
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+## Article 1
+In a press release by Apple Newsroom [Data Privacy Day at Apple: Improving transparency and empowering users](https://www.apple.com/newsroom/2021/01/data-privacy-day-at-apple-improving-transparency-and-empowering-users/), Apple's push for increased data privacy and transparancy is emphasized. Apple's new features will allow users to better understand how their personal data is used on apps and websites. Every app will have a "privacy nutrition label" that summarizes the developer's privacy practices. In a future update, Apple will also require apps to get user permission before tracking their data. 
+
+While I need to look further into the subject and wait to experience these new features for myself, I beleive that Apple is taking steps in the right direction when it comes to promoting privacy and transparency. These new tools will inform unaware users about how their data was and is being used, and it will give them greater control of their personal information going forward. I beleive that more customers will be aware of data tracking practices, which a step in the right direction towards more privacy.
+
+## Article 2
+An article by CNBC [Facebook blasts Apple in new ads over iPhone privacy change](https://www.cnbc.com/2020/12/16/facebook-blasts-apple-in-new-ads-over-iphone-privacy-change-.html) details Facebook's backlash against Apple's new privacy features. Facebook ran newspaper ads and published blog posts that argue that Apple's privacy features threaten small businesses by limiting their ability to reach customers via personalized ads. Facebook added that many small businesses increaed ad spending in order to survive the pandemic. The use of these personalized ads could be limited by Apple's new features, which will "crush" small businesses. 
+
+I beleive that Facebook has a point when arguing on behalf of small businesses. However, I wonder if Facebook is actually fighting for small businesses or if it is feuding with Apple because Apple's new privacy features hurts Facebook's profitability, which relies heavily on data usage. Time will tell if Apple's features are a net positive or if Facebook is right in claiming that that the features hurt already struggling small businesses.
